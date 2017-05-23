@@ -1,0 +1,24 @@
+
+p  {
+font-family:verdana;
+font-style: italic;
+font-size:20px; 
+margin:65px; 
+text-align: center;
+}
+h1 {
+font-family: 'Arial Black';
+text-decoration: underline; 
+color: #D02090;
+}
+h3  {
+font-family: 'Arial Black';
+text-decoration: underline; 
+margin:65px; 
+text-align: left;
+color: red;
+}
+
+body {
+	background: #00F5FF;
+	}
